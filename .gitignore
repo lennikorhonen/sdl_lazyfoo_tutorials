@@ -1,5 +1,6 @@
 *.png
 *.bmp
+*_sdl2
 
 !.gitignore
 !./*.cpp
